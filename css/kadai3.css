@@ -1,0 +1,41 @@
+h1{
+    
+    color:aqua;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align:center;
+    background-color: royalblue;
+}
+
+
+body{
+    background-image:url(../images/haikei.jpg);
+    background-repeat: ;
+    background-attachment: fixed;
+    background-position: center;
+}
+h2{
+    color: brown;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Impact";
+    text-align: center;
+    background-color: cornflowerblue;
+}
+h3{
+    color: yellow;
+    background-color: darkslategray;
+}
+
+h4{
+    color:chartreuse;
+    background-color: darkslategray;
+}
+p{
+    color:yellow;
+    background-color: red;
+}
+tr{
+    color: fuchsia
+}
