@@ -1,15 +1,58 @@
-.bluecolor{
-    
-    color :aliceblue blue;
-}
-h1#kudo{
-    font-family:"impact";
-    font-size:60px;
+div.title{
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-align: center;
+    color: red;
+    background-color: aqua; 
 }
 
-h2{
-    color :red !important;
+div.h1{
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: blueviolet;
+    background-color: chartreuse
 }
-h2{
-    color :green;
+div.h2{
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    
+}
+
+
+
+div.img1{
+    margin-bottom: 20px;  
+    text-align: center;
+    
+}
+
+div.h3{
+    margin-bottom: 35px;
+    font-size: 20px;
+    text-align: center;
+    color: yellow;
+    background-color: blue
+}
+
+div.img2{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+
+div.h4{
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    
+}
+
+div.h5{
+    margin-bottom: 20px;
+    font-size: 20px;
+    text-align: center;
+    color: blueviolet;
+    background-color: chartreuse
 }
